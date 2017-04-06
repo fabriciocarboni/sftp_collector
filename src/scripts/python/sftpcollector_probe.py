@@ -149,7 +149,7 @@ def arquivos_retry():
                 print '-',
             print ''   
 
-'''
+
 def arquivos_http_ftp_other():
 
     dirs = ['http','ftp','other']
@@ -301,8 +301,8 @@ def arquivos_http_ftp_other():
     print ''
 
     cicle()
-'''
-''' comentado ciclo que exibe qtd de processos / threads
+
+
 def cicle():
 
     types = []
@@ -393,7 +393,7 @@ def cicle():
             for i in range(under_cicle_width):
                 print '-',
             print ''           
-'''
+
  
 def cicle():
 
