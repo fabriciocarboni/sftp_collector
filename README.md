@@ -1,6 +1,6 @@
 # sftp_collector
 
-This program was created to collect a huge amount of gz files from several differents servers in a Telecom company.
+This program has been created to collect a huge amount of gz files from several differents servers in a Telecom company.
 
 Author: Fabricio Carboni
 
